@@ -4,7 +4,7 @@ import MovieCard from "./Components/MovieCard"
 import './App.css'
 import searchIcon from './assets/search.svg'
 
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=9821af3a'
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=9821af3a'
 
 
 
